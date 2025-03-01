@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "MariaDB_IP",
+        "port": "MariaDB_PORT",
+        "user": "MariaDB_USERNAME",
+        "password": "MariaDB_PASSWORD",
+        "database": "MariaDB_DATABASE"
+    }
+}
