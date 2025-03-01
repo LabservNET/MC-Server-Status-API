@@ -1,5 +1,6 @@
 from flask import Flask, jsonify, request
 from mcstatus import JavaServer, BedrockServer
+from flask_cors import CORS
 import mysql.connector
 import json
 import time
@@ -8,6 +9,7 @@ import os
 from datetime import datetime, timedelta
 
 app = Flask(__name__)
+CORS(app)
 
 def load_config():
     with open("config.json", "r") as f:
