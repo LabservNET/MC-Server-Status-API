@@ -1,0 +1,1 @@
+# MC-Server-Status-API
