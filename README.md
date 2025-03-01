@@ -168,4 +168,4 @@ _Response:_
 
 # Author
  - Created by LabservNET. Contributions are welcome!
- - Sollten probleme auftreten kontaktiert mich gerne auf Discord unter dem namen `_.emanuel_`
+ - If you have any problems, please contact me on Discord using my name `_.emanuel_`
